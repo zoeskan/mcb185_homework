@@ -1,6 +1,8 @@
-Participation
-============
 - Week 1
+	+ Attended class Tuesday
+	+ Introduced myself to Ashur
+	+ Attended class Thursday
+	+ Total 3 points
 - Week 2
 - Week 3
 - Week 4
