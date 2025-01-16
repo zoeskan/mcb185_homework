@@ -7,6 +7,7 @@
 	+ Attended class Tuesday
 	+ Attended class Thursday
 	+ Met Rokhshid
+	+ Total 3 points
 - Week 3
 - Week 4
 - Week 5
