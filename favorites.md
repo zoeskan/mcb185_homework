@@ -1,7 +1,7 @@
 
 Favorite Foods
 ================
-+
+
 	## entrees
 + sushi
 + shawarma
