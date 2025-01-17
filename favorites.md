@@ -1,10 +1,10 @@
 
 Favorite Foods
 ================
-	## entrees
+## entrees
 + sushi
 + shawarma
-+ bakalao mei skordali
++ bakalao mei skordalia
 	## appetizers
 + shirazi
 + horiatiki
