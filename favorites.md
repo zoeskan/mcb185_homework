@@ -1,7 +1,7 @@
 
 Favorite Foods
 ================
-## entrees
+	## entrees
 + sushi
 + shawarma
 + bakalao mei skordalia
