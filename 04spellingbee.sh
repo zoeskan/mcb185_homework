@@ -1,2 +1,2 @@
-gunzip -c ../MCB185/data/dictionary.gz | grep -E "^[zonriac]*r[zonriac]*$" | grep -E "^.{4,}$"
+gunzip -c ../MCB185/data/dictionary.gz | grep -E "^[zonriac]*r[zonriac]*$" | grep -c -E "^.{4,}$"
 
