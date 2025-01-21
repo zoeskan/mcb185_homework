@@ -2,15 +2,15 @@
 Favorite Foods
 ================
 
-	## entrees
+## entrees
 + sushi
 + shawarma
 + bakalao mei skordalia
-	## appetizers
+## appetizers
 + shirazi
 + horiatiki
 + spanakopita
-	## desserts 
+## desserts 
 + baklava
 + lemon sorbet
 
