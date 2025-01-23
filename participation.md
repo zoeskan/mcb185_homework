@@ -1,4 +1,6 @@
-xxxxxxxxxxx- Week 1
+xxxxxxxxxxx
+
+- Week 1
 	+ Attended class Tuesday
 	+ Introduced myself to Ashur
 	+ Attended class Thursday
