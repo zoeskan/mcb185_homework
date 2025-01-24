@@ -13,6 +13,9 @@ xxxxxxxxxxx
 - Week 3
 	+ Attended class Tuesday
 	+ Met Jaden
+	+ Attended class Thursday
+	+ Met Orlando
+	Total 4 points
 - Week 4
 - Week 5
 - Week 6
