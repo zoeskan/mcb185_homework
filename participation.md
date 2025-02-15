@@ -17,7 +17,11 @@ xxxxxxxxxxx
 	+ Met Orlando
 	+ Total 4 points
 - Week 4
+	+ Took Assessment
+	Total 1 point
 - Week 5
+	+ Attended Office Hours Wednesday
+	+ Attended class Thursday
 - Week 6
 - Week 7
 - Week 8
