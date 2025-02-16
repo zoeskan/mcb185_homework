@@ -1,5 +1,7 @@
 # chars are fish not code <3
 
+import math
+
 def char_to_prob(x): return ord(x)
 
 print(char_to_prob('A'))
