@@ -12,11 +12,13 @@ print(char_to_prob('b'))
 print(char_to_prob('c'))
 
 def prob_to_char(x):
-	if 65 < x < 122:	
+	if 64 < x < 123:	
 		 return chr(int(x))
 	else:
 		return None
 	
+print(prob_to_char(65))
+print(prob_to_char(122))
 print(prob_to_char(0.001))
 print(prob_to_char(69))
 print(prob_to_char(101))
