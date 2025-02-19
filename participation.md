@@ -18,12 +18,16 @@ xxxxxxxxxxx
 	+ Total 4 points
 - Week 4
 	+ Took Assessment
-	Total 1 point
+	+ Total 1 point
 - Week 5
 	+ Attended Office Hours Wednesday
 	+ Attended class Thursday
+	+ Total 2 points
 - Week 6
+	+ no computer
 - Week 7
+	+ Attended class Tuesday
+	+ Took Assessment
 - Week 8
 - Week 9
 - Week 10
