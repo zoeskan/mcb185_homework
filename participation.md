@@ -28,6 +28,8 @@ xxxxxxxxxxx
 - Week 7
 	+ Attended class Tuesday
 	+ Took Assessment
+	+ Attended class Thursday
+	+ Attended Office Hours Friday
 - Week 8
 - Week 9
 - Week 10
