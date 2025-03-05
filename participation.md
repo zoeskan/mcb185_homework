@@ -30,6 +30,13 @@ xxxxxxxxxxx
 	+ Took Assessment
 	+ Attended class Thursday
 	+ Attended Office Hours Friday
+	total 4 points
 - Week 8
+	+ Attended Office Hours
+	+ Attended class Tuesday
+	+ Took Assessment
+	+ Attended class Thursday
+	total 4 points
 - Week 9
+	+ Attended class Tuesday
 - Week 10
