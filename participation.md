@@ -20,7 +20,7 @@ xxxxxxxxxxx
 	+ Took Assessment
 	+ Total 1 point
 - Week 5
-	+ Attended Office Hours Wednesday
+	+ Attended Office Hours 
 	+ Attended class Thursday
 	+ Total 2 points
 - Week 6
@@ -29,7 +29,7 @@ xxxxxxxxxxx
 	+ Attended class Tuesday
 	+ Took Assessment
 	+ Attended class Thursday
-	+ Attended Office Hours Friday
+	+ Attended Office Hours 
 	total 4 points
 - Week 8
 	+ Attended Office Hours
@@ -39,4 +39,14 @@ xxxxxxxxxxx
 	total 4 points
 - Week 9
 	+ Attended class Tuesday
+	+ Attended class Thursday
+	+ Attended Office Hours
+	total 3 points
 - Week 10
+	+ Attended class Tuesday
+	+ Attended Office Hours
+	+ Attended Office Hours some more
+	+ Took Assessment
+	total 4 points
+
+Total Participation: ~3 point average
